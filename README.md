@@ -1,2 +1,0 @@
-# jonna
-Created with CodeSandbox
